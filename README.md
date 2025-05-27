@@ -1,6 +1,8 @@
 # Dashboard-Portfolio
 This repository contains business intelligence dashboards created using Power BI, Looker, and Tableau. The dashboards are exported in PDF format and organized by tool for easy reference.
- Power BI
+
+🔍 Dashboard Descriptions
+🔷 Power BI
 Sales_Overview.pdf
 A summary dashboard showing overall sales, top-performing brands, state-wise performance, and ASIN-level breakdowns.
 
