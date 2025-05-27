@@ -3,19 +3,6 @@
 
 This repository contains business intelligence dashboards created using **Power BI**, **Looker**, and **Tableau**. The dashboards are exported in PDF format and organized by tool for easy reference.
 
-//## 📁 Folder Structure
-```
-PowerBI/
-  ├── Sales_Overview.pdf
-  └── Customer_Insights.pdf
-
-Looker/
-  └── Ad_Performance.pdf
-
-Tableau/
-  └── Product_Trends.pdf
-``` //
-
 ## 🔍 Dashboard Descriptions
 
 ### 🔷 Power BI
