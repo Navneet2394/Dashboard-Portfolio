@@ -16,3 +16,6 @@ Weekly/monthly ad data visualization with key metrics like Impressions, Clicks, 
 🔷 Tableau
 Product_Trends.pdf
 Visual analysis of product lifecycle, trends over time, and sales velocity using interactive graphs.
+
+🔒 Note
+All sensitive information like brand names and ASINs have been partially masked for privacy and compliance.
