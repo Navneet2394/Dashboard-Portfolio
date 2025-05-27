@@ -3,7 +3,7 @@ This repository contains business intelligence dashboards created using **Power 
 
 🔍 Dashboard Descriptions
 🔷 **Power BI**
-***Sales_Overview.pdf***
+**Sales_Overview.pdf**
 A summary dashboard showing overall sales, top-performing brands, state-wise performance, and ASIN-level breakdowns.
 
 **Customer_Insights.pdf**
